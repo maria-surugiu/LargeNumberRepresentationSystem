@@ -75,7 +75,9 @@ The project is organized into three main modules:
 
 ## Getting Started
 
-- Upload the LargeNumberRepresentationSystem.ipynb file in Google Colab and run it
+- Upload the LargeNumberRepresentationSystem.ipynb file in Google Colab and press Run all
+- After the file was ran, click on the left panel on the file icon, there will be a folder named /content/bigint_cuda that cointains all the files from the project
+- Waveforms from the result are stored in this file /content/bigint_cuda/comprehensive_scaling.png
 
 ---
 
